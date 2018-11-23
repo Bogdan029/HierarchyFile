@@ -1,0 +1,11 @@
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\bin\Debug\netcoreapp2.0\FileHierarchy.deps.json
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\bin\Debug\netcoreapp2.0\FileHierarchy.runtimeconfig.json
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\bin\Debug\netcoreapp2.0\FileHierarchy.runtimeconfig.dev.json
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\bin\Debug\netcoreapp2.0\FileHierarchy.dll
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\bin\Debug\netcoreapp2.0\FileHierarchy.pdb
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\obj\Debug\netcoreapp2.0\FileHierarchy.csprojResolveAssemblyReference.cache
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\obj\Debug\netcoreapp2.0\FileHierarchy.csproj.CoreCompileInputs.cache
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\obj\Debug\netcoreapp2.0\FileHierarchy.AssemblyInfoInputs.cache
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\obj\Debug\netcoreapp2.0\FileHierarchy.AssemblyInfo.cs
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\obj\Debug\netcoreapp2.0\FileHierarchy.dll
+c:\users\bivan\source\repos\FileHierarchy\FileHierarchy\obj\Debug\netcoreapp2.0\FileHierarchy.pdb
